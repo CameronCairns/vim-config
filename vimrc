@@ -3,6 +3,9 @@
 "Configuration for vanilla vim goes here
 source ~/.vim/base-config.vim
 
+"extra filetypes here
+source ~/.vim/file-types.vim
+
 " VimPlug stuff goes into the vimplugins.vim file
 call plug#begin('~/.vim/plugged') " plugin directory
 source ~/.vim/plugins.vim
