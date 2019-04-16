@@ -12,3 +12,6 @@ call plug#end()
 " configuration for linter/file fixer
 " Note that ALE appears to now support completion with a valid language server
 source ~/.vim/ale-config.vim
+
+"colorscheme config
+source ~/.vim/color-config.vim

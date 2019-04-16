@@ -1,6 +1,9 @@
 " enable colors based on file
 syntax enable
 
+" use 256 colors
+set term=xterm-256color
+
 " show line numbers
 set number
 

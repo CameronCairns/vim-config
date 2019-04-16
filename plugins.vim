@@ -10,3 +10,6 @@ Plug 'https://github.com/mattn/emmet-vim.git'
 
 " helps with setting indent size for filetypes
 Plug 'editorconfig/editorconfig-vim'
+
+" solarized for 24 bit color
+Plug 'lifepillar/vim-solarized8'
