@@ -34,6 +34,10 @@ set ignorecase smartcase
 " make comma leader key
 let mapleader=","
 
+" <ctrl-c> remap to esc for ease (ctrl-c has different behavior than esc by
+" default
+inoremap <C-c> <Esc>
+
 " ----------------
 " Leader Shortcuts
 " ----------------
