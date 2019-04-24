@@ -45,3 +45,6 @@ inoremap <C-c> <Esc>
 
 " map FZF
 nnoremap <leader>f :FZF<ENTER>
+
+" use spaces for tab
+set tabstop=4
