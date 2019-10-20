@@ -46,5 +46,8 @@ inoremap <C-c> <Esc>
 " map FZF
 nnoremap <leader>f :FZF<ENTER>
 
+" map buffer switch
+nnoremap <leader>b :files<ENTER>:b
+
 " use spaces for tab
 set tabstop=4
