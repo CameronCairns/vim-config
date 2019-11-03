@@ -13,3 +13,6 @@ Plug 'editorconfig/editorconfig-vim'
 
 " solarized for 24 bit color
 Plug 'lifepillar/vim-solarized8'
+
+" git integration
+Plug 'tpope/vim-fugitive'
